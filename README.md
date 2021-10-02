@@ -1,6 +1,6 @@
-I'm Director of Engineering at [Snowbound Software](https://snowbound.com/)
-I broadcast my radio show, grahams' completely normal radio programme, every Monday at 8pm ET at [Uncertain FM](https://uncertain.fm/)
-I am benevolent dictator of the [Boston Sunday Night Film Club](https://boston.sundaynightfilmclub.com/)
+- I'm Director of Engineering at [Snowbound Software](https://snowbound.com/)
+- I broadcast my radio show, grahams' completely normal radio programme, every Monday at 8pm ET at [Uncertain FM](https://uncertain.fm/)
+- I am benevolent dictator of the [Boston Sunday Night Film Club](https://boston.sundaynightfilmclub.com/)
 
 
 <!--
